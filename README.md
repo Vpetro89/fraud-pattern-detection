@@ -1,4 +1,3 @@
-Title
 Fraud Pattern Detection Pipeline
 
 Description
